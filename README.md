@@ -1,17 +1,12 @@
 # sabyanlovers
 //ini hanya tools untuk meluap kan rasa seorang programmer yg jatuh cinta :v SabyanKu idamanKu
-Cara Gunakan
-=termux=
-1.pkg install clang
-2.pkg install ruby; gem install lolcat;pkg install toilet //Untuk Ascci nya gan Biar Joss
-3.chmod 777 sabyan
-4../sabyan
+FOR TERMUX
+pkg install curl
+pkg install toilet
+pkg install ruby
+gem install lolcat
+pkg install clang
+chmod 777 sabyan
+./sabyan
 
-
-Contact W 
-Ig = Muhakemos_/ardho_ainullah
-Fb = Ardho Ainullah
-Wa = Gak Ada Soal Nya Sering Ganti2
-telegram = muh4k3mos
-=================================
-Support By Lucy Id _>> ./kachang
+contact me ig @muhakemos_ fb ardho ainullah
