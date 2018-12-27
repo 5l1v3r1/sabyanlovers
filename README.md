@@ -1,6 +1,5 @@
 # sabyanlovers
-//ini hanya tools untuk meluap kan rasa seorang programmer yg jatuh cinta :v SabyanKu idamanKu
-FOR TERMUX
+<b>ini Tools Isi Na Semua Profil Sabyan Plus Ama Musik nya. only termux _> arch64
 pkg install curl
 pkg install toilet
 pkg install ruby
